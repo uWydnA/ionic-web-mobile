@@ -1,0 +1,8 @@
+{
+  "name": "IonicWebMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "55422b22"
+}
